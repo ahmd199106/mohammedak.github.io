@@ -3061,7 +3061,9 @@ body.is-preload #wrapper.fade-in:before {
     text-align: center;
     z-index: 1;
     min-height: 100vh;
-    background-image: url('../../images//backgroundImage.jpg');
+    background-image: url('../../images/chullan.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #intro input,
@@ -3089,9 +3091,10 @@ body.is-preload #wrapper.fade-in:before {
 #intro h2,
 #intro h3,
 #intro h4,
+#intro p,
 #intro h5,
 #intro h6 {
-    color: #ffffff;
+    color: black;
 }
 
 #intro blockquote {
