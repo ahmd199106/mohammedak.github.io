@@ -3694,7 +3694,6 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
     display: -ms-flex;
     display: flex;
     background-color: #212931;
-    color: #909498;
     cursor: default;
     position: relative;
     margin: 0 auto;
