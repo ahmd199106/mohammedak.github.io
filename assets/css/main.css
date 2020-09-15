@@ -3094,7 +3094,7 @@ body.is-preload #wrapper.fade-in:before {
 #intro p,
 #intro h5,
 #intro h6 {
-    color: black;
+    color: rgb(10, 88, 133);
 }
 
 #intro blockquote {
@@ -3521,7 +3521,7 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 /* Main */
 
 #main {
-    background-color: #ffffff;
+    background-color: #7bceddf5;
     position: relative;
     margin: 0 auto;
     width: calc(100% - 4rem);
